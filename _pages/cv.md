@@ -26,7 +26,7 @@ Work experience
   * Duties included: GIS Lead in Soil Map
   * PI/Mentor: Dr. Marilyn Howarth
 
-* Summer 2021: Diversity, Equity, Inclusion and Justice (DEIJ) Intern
+* Summer 2021: Diversity, Equity, Inclusion and Justice (DEIJ) Intern.
   * Chesapeake Bay Foundation
   * Duties included: GIS Native Lands Mapping
   * Supervisor: Andrew Schell
