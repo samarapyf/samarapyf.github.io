@@ -36,6 +36,7 @@ Volunteer Experience
 * 2023 Board of Trustees Member, Stanley Trustee
   * Chesapeake Bay Foundation
  
+ 
 Skills
 ======
 * Skill 1: GIS
