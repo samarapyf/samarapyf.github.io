@@ -4,4 +4,4 @@ excerpt: Here's a map institutions of higher education in Maryland. There are bo
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+samarapyf.github.io_portfolio/qgis2web_2023_05_16-15_28_21_185437/index.html
