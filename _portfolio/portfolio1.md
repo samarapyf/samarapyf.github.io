@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio.png'>"
+title: "Flood Risk Map"
+excerpt: "Baltimore Flood Risk Map <br/><img src='/images/portfolio.png'>"
 collection: portfolio
 ---
 
