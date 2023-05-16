@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Spring 2023: Undergraduate Teaching Assistant
+* Spring 2023: Undergraduate Teaching Assistant: Science 100
   * University of Maryland, Baltimore County
  
 * Summer 2022: Short Term Educational Experiences for Research (STEER) Intern
