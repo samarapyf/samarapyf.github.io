@@ -1,6 +1,6 @@
 ---
 title: "Maryland Universities"
-excerpt: Here's a map institutions of higher education in Maryland. There are both colleges and universities in included, as points and polygons. <br/><img src='/images/500x300.png'>"
+excerpt: Here's a map institutions of higher education in Maryland. There are both colleges and universities in included, as points and polygons. "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
