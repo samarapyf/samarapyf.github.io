@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Utah Map"
+excerpt: "Stratified and Random Precipitation: Utah <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
