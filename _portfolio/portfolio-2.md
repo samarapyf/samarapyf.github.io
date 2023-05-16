@@ -1,6 +1,6 @@
 ---
 title: "Utah Map"
-excerpt: "Stratified and Random Precipitation: Utah <br/><img src='/images/500x300.png'>"
+excerpt: "Stratified and Random Precipitation: Utah <br/><img src='/utah.png'>"
 collection: portfolio
 ---
 
